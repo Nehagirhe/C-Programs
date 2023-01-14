@@ -6,6 +6,6 @@ int main()
 	per=2*(l+b);
 	area=l*b;
 	printf("Perimeter Of The Rectangle =%d inches",per);
-    printf("\nArea Of The Rectangle =%d Sqyare inches",area);	
+    printf("\nArea Of The Rectangle =%d Square inches",area);	
     return 0;
 }
