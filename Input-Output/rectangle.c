@@ -4,11 +4,11 @@
 int main(int argc, char *argv[]) {
 int height,width;
 float per=0;
-printf("Input The Height Of The Rectangle :");  //5 
+printf("Input The Height Of The Rectangle :");   
 scanf("%d",&height);  
-printf("Input The Width Of The Rectangle :");   //7
+printf("Input The Width Of The Rectangle :");  
 scanf("%d",&width);
-per=2*(height+width);                          //24
+per=2*(height+width);                          
 printf("perimeter of the rectangle is :%f",per);
 return 0;
 }        
