@@ -6,9 +6,9 @@
 int main(int argc, char *argv[]){
 
 	float celsius,fahrenheit;
-	printf("enter temperature in celsius:");     //45
+	printf("enter temperature in celsius:");     
 	scanf("%f",&celsius);
-	fahrenheit=(celsius*9/5)+32;                  //(45*9/5)+32
-	printf("%.2f celsius= %.2f Fahrenheit",celsius,fahrenheit);        //113
+	fahrenheit=(celsius*9/5)+32;                  
+	printf("%.2f celsius= %.2f Fahrenheit",celsius,fahrenheit);        
 	return 0;
 }
