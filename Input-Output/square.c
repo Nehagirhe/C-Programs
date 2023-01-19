@@ -7,8 +7,8 @@
 int main()
 {
 	int area,n,s;
-	printf("enter the side of a square :");    //2
+	printf("enter the side of a square :");    
 	scanf("%d",&s);
-	area=s*s;                                     //2*2
-	printf("Area of a square is:%d",area);        //4
+	area=s*s;                                     
+	printf("Area of a square is:%d",area);        
 }
