@@ -1,3 +1,4 @@
+//C Program To Find The Sum Of First 10 Natural Numbers.
 #include <stdio.h>
 #include <stdlib.h>
 
