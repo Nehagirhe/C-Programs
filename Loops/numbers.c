@@ -1,3 +1,5 @@
+//C Program To Display n Terms Of Natural Number And Their Sum.
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -5,11 +7,12 @@
 
 int main(int argc, char *argv[]) {
 	int i,sum=0;
+	printf("The first 7 Natural Number Is:\n");
 	for(i=1;i<=7;i++)
 	{
 		print("%d",i);
 		sum=sum+i;
 	}
-	printf("\nThe Sum Is: %d",sum);
+	printf("\nThe Sum Of Natural Number Is: %d",sum);
 	return 0;
 }
