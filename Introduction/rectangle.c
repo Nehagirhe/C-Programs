@@ -1,3 +1,4 @@
+//C Program To Compute The Perimeter And Area Of A Rectangle With A Height Of 7 Inches And Width Of 5 Inches.
 #include<stdio.h>
 #include<stdlib.h>
 int main()
