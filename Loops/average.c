@@ -1,4 +1,4 @@
-//C Program To Read 10 Numbers From Keyboard And Find Their Sum And Average.
+//C Program To Read 10 Numbers From Keyboard And Find Their Sum And Average
 
 #include <stdio.h>
 #include <stdlib.h>
