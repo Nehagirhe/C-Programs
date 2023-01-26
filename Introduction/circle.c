@@ -1,4 +1,4 @@
-// program for area of circle
+// program for area of circle and perimeter of circle.
 #include<stdio.h>
 #include<stdlib.h>
 int main()
