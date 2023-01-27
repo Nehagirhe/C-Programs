@@ -8,7 +8,7 @@ int main(int argc, char *argv[]) {
 	printf("enter the number:"); 
 	scanf("%d",&n);
 	while(n!=0){                    
-	rev=rev*10+n%10;             // 0=0*10+123%10= 3                      
+	rev=rev*10+n%10;                                  
 	n=n/10;}                    //123=123/10=12                                   
 	printf("reverse=%d",rev);
 	return 0;
