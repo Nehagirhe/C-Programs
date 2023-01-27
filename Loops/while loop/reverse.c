@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 	scanf("%d",&n);
 	while(n!=0){                    
 	rev=rev*10+n%10;                                  
-	n=n/10;}                    //123=123/10=12                                   
+	n=n/10;}                                                      
 	printf("reverse=%d",rev);
 	return 0;
 }
