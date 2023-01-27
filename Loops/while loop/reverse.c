@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int n,rev=0;
-	printf("enter the number:");     // 123
+	printf("enter the number:"); 
 	scanf("%d",&n);
 	while(n!=0){                    
 	rev=rev*10+n%10;             // 0=0*10+123%10= 3             3*10+12%10=32               
