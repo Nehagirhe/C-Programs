@@ -6,9 +6,9 @@
 int main(int argc, char *argv[]) {
 	int n,i,j,k;
     printf("please give an input upto you want to print series:");
-    scanf("%d",&n);                        //10
-    i=0;                            //0
-    j=1;                            //1
+    scanf("%d",&n);                       
+    i=0;                            
+    j=1;                           
     printf("%d %d ",i,j);
     k=i+j;                         //0+1=1
     while(k<=n)                    //1<=10       2<=10  3
