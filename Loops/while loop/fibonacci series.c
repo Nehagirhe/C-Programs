@@ -13,8 +13,8 @@ int main(int argc, char *argv[]) {
     k=i+j;                         
     while(k<=n)         
     {
-    	printf(" %d",k);         //1           2
-    	i=j;                     //1           1
+    	printf(" %d",k);        
+    	i=j;                     
     	j=k;                    //1            2
     	k=i+j;                 //2             1+2=3
 	}
