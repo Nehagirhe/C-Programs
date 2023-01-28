@@ -10,8 +10,8 @@ int main(int argc, char *argv[]) {
     i=0;                            
     j=1;                           
     printf("%d %d ",i,j);
-    k=i+j;                         //0+1=1
-    while(k<=n)                    //1<=10       2<=10  3
+    k=i+j;                         
+    while(k<=n)         
     {
     	printf(" %d",k);         //1           2
     	i=j;                     //1           1
