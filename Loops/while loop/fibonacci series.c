@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
     {
     	printf(" %d",k);        
     	i=j;                     
-    	j=k;                    //1            2
+    	j=k;                    
     	k=i+j;                 //2             1+2=3
 	}
 	return 0;
