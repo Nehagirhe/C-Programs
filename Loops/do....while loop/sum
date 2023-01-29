@@ -1,1 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
 
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char *argv[]) {
+	int num,x,sum=0;
+	printf("Enter Numbers:");
+	scanf("%d",&num);             
+	do
+	{
+		x=num%10;             
+		sum=sum+x;            
+    num=num/10;          
+	}
+	while(num>0);                    
+	printf("sum of digits of the number = %d",sum);        
+	return 0;
+}
