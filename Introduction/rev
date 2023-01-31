@@ -1,4 +1,4 @@
-//C Program To Print The Following Characters In A Reverse Way
+//C Program To Print The Following Characters In A Reverse Way.
 #include <stdio.h>
 #include <stdlib.h>
 
