@@ -1,3 +1,4 @@
+//Program In C To Display The pattern like right angle triangle using an asterisk'*'
 #include <stdio.h>
 #include <stdlib.h>
 
