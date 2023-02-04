@@ -8,6 +8,6 @@ int main()
 	per=2*pi*r;
 	area=pi*r*r;
 	printf("Perimeter Of The Circle =%f ",per);
-    printf("\nArea Of The Circle =%f ",area);	
-    return 0;
+        printf("\nArea Of The Circle =%f ",area);	
+        return 0;
 }
