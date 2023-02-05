@@ -20,4 +20,5 @@ int main(int argc, char *argv[]) {
 	printf("The Number Of Digit Is %d", nd);
 	printf("\nSum Of Digit Is %d", sd);
 	return 0;
+	
 }
