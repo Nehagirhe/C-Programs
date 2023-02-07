@@ -19,5 +19,6 @@
     ++alphabet;
    printf("\n");
    }
+    
    return 0;
    }
