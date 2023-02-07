@@ -16,7 +16,7 @@
    for (j = 1;j<= i; ++j) {
    printf("%c ", alphabet);
    }
-   ++alphabet;
+    ++alphabet;
    printf("\n");
    }
    return 0;
