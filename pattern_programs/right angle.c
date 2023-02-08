@@ -1,6 +1,7 @@
 // Program In C To Display The Pattern Like Right Angle Triangle Using An Asterisk '*'.
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(int argc, char *argv[]) {
 	int i,j;
 	for(i=0;i<=4;i++)
