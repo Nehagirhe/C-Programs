@@ -9,6 +9,6 @@ int main()
 	printf("Perimeter Of The Rectangle =%d inches",per);
     printf("\nArea Of The Rectangle =%d Square inches",area);
 	
-    return 0
+    return 0;
 	
 }
