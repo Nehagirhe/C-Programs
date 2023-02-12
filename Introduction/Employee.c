@@ -1,3 +1,7 @@
+/*C Program That Accepts An Employee's ID ,total Worked Hours Of A Month And The Amount He Received Per Hour.Print The Employee's ID
+And Salary Of A Particular Month.*/
+
+
 #include<stdio.h>
 #include<stdlib.h>
 int main()
