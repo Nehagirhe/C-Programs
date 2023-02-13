@@ -1,4 +1,4 @@
-//Program To Calculate No. Of Digits And Sum Of Digits Of That Number Using A While Loop 
+// Program To Calculate No. Of Digits And Sum Of Digits Of That Number Using A While Loop 
 #include <stdio.h>
 #include <stdlib.h>
 
