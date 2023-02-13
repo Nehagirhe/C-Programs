@@ -1,4 +1,4 @@
-//C Program To Display The Multiplication Table Of A Given Integer.
+// C Program To Display The Multiplication Table Of A Given Integer.
 #include <stdio.h>
 #include <stdlib.h>
 
