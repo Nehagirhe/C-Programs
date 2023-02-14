@@ -1,4 +1,4 @@
-/*C Program for Half Pyramid of Alphabets
+/* C Program for Half Pyramid of Alphabets
  A
  B B
  C C C
