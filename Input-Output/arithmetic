@@ -1,1 +1,17 @@
-
+#include <stdio.h>
+#include <stdlib.h>
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+int main(int argc, char *argv[]) {
+int a=10,b=5,c,d,e;
+float f;
+c=a+b;
+printf("input any two numbers separated by comma :%d,%d",a,b);
+printf("\nThe Sum Of The Given Numbers :%d",c);
+d=a-b;
+printf("\nThe difference of the given numbers :%d",d);
+e=a*b;
+printf("\nThe product of the given numbers :%d",e);
+f=a/b;
+printf("\nthe quotient of the given numbers :%f",f);
+return 0;
+}
