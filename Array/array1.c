@@ -1,3 +1,4 @@
+//write a program in c to store elements in an array and print it.
 #include <stdio.h>
 #include <stdlib.h>
 
