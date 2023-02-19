@@ -11,7 +11,7 @@
 	printf("elements in the array are :");
 	for(i=0;i<10;i++)
 	{
-		printf("%d  ",a[i]);
+	printf("%d  ",a[i]);
 	}
 			
 	return 0;
