@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char *argv[]) {
+	char name1[8];
+	char name2[11];
+	
+	printf("Input The String:");
+	scanf("%s%s",name1,name2);
+	printf("%s, %s",name1,name2);
+	return 0;
+}
