@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 int main(int argc, char *argv[]) {
-int a=10,b=5,c,d,e;
+int a=10;
+int b=5,c,d,e;
 float f;
 c=a+b;
 printf("input any two numbers separated by comma :%d,%d",a,b);
