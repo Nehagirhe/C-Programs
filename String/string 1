@@ -5,7 +5,7 @@ int main(int argc, char *argv[]) {
 	char name1[8];
 	char name2[11];
 	
-	printf("Input The String:");
+	printf("Input The String :");
 	scanf("%s%s",name1,name2);
 	printf("%s, %s",name1,name2);
 	return 0;
