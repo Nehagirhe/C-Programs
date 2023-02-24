@@ -1,4 +1,4 @@
-Program In C To Display The N Terms Of Odd Natural Number And Their Sum.
+//Program In C To Display The N Terms Of Odd Natural Number And Their Sum.
 #include <stdio.h>
 #include <stdlib.h>
 
