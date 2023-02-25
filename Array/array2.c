@@ -6,7 +6,7 @@
 
 int main(int argc, char *argv[]) 
 {
-	int a[3]={2,5,7};
+    int a[3]={2,5,7};
     int rev=0,i,j,n;
     n=sizeof a/sizeof a[0];
     printf("The values store into the array are:\n");
