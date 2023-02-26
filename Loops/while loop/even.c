@@ -11,8 +11,8 @@ int main(int argc, char *argv[]) {
 	i=2;
 	while(i<=n)
 	{
-		printf("%d ",i);
-		i=i+2;
+	printf("%d ",i);
+	i=i+2;
 	}
 	return 0;
 }
