@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
+int main() {
 int a[3]={2,5,8};
 int i,sum=0;
 for(i=0;i<3;i++)
