@@ -13,6 +13,6 @@ int main(int argc, char *argv[]) {
 		print("%d",i);
 		sum=sum+i;
 	}
-	printf("\nThe Sum Of Natural Number Is: %d",sum);
+	printf("The Sum Of Natural Number Is: %d",sum);
 	return 0;
 }
